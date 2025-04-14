@@ -175,7 +175,7 @@ The experiment involved visually attending to one of four flickering squares, ea
 
 https://github.com/user-attachments/assets/c75bfadf-30ea-4fe6-b056-0ba2697271fc
 
-[SSVEP Training Model Test Success](https://www.youtube.com/watch?v=0Seno1-ghCM)
+[SSVEP Training Model Test Success](media/training_model_test_success.MOV)
 ### **Real-Time Model Application & Next Steps**
 
 The next step is **cursor movement mapping**.
@@ -186,7 +186,7 @@ The next step is **cursor movement mapping**.
   - The BCI highlights the correct square in real time
   - This is visible in `applied_model_image.jpeg`
 
-![Applied Model Image](applied_model_image.jpeg)
+![Applied Model Image](media/applied_model_image.jpeg)
 
 - **Next Step:** Implement cursor movement
   - Cursor starts in the center
@@ -241,4 +241,3 @@ Modify `run_vep.py` to change the run number before each test.
 
 - After 2 runs: \~60%
 - After 4 runs: \~70%
-
